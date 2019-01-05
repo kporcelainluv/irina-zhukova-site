@@ -1,0 +1,27 @@
+export const theme = {
+  fontSizes: [
+    '0.702rem',
+    '0.79rem',
+    '0.889rem',
+    '1rem',
+    '1.125rem',
+    '1.266rem',
+    '1.424rem',
+    '1.602rem',
+    '1.802rem',
+    '2.027rem',
+    '2.280rem',
+    '2.736rem',
+  ],
+  space: [
+    '0.5rem',
+    '1rem',
+    '1.5rem',
+    '2rem',
+    '2.5rem',
+    '3rem',
+    '3.5rem',
+    '4rem',
+    '4.5rem',
+  ],
+};
